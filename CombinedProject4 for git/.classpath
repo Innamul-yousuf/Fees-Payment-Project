@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/activation.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new javas/new java/drive-download-20220515T031207Z-001/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/bcprov-jdk15on-1.52.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/bcprov-jdk15on-1.52-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/debugger-app-3.0.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/fontbox-3.0.0-alpha3 (1).jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/fontbox-3.0.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/itextpdf-5.5.13.2.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/pdfbox-3.0.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/pdfbox-app-3.0.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/pdfbox-debugger-3.0.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/pdfbox-tools-3.0.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/preflight-3.0.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/preflight-app-3.0.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/xmpbox-3.0.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/jar_files/bc-fips-1.0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/tools/pdf libraries/jar_files/bcpqc-addon-fips-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new_sms/twilio-8.8.0-jar-with-dependencies1.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new_sms/twilio-8.10.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="D:/tools/new_sms/twilio-8.30.1-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
